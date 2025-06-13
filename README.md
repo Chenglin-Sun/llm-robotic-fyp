@@ -1,4 +1,4 @@
-# llm-robotic-fyp# Robotic Chess Player – User Guide
+Robotic Chess Player – User Guide
 
 ---
 
